@@ -1,0 +1,17 @@
+das Gericht/court
+das Gesetz/law
+der Anwalt/lawyer
+der Betrug/fraud
+der Beweis/evidence
+der Diebstahl/theft
+der Mord/murder
+der Raub/robbery
+der Richter/judge
+der Schaden/damage
+der Unfall/accident
+der Vertrag/contract
+der Zeuge/witness
+die Festnahme/arrest
+rechtlich/legal
+schuldig/guilty
+unschuldig/innocent

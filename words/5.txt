@@ -1,0 +1,80 @@
+alt/old
+arbeiten/to work
+beginnen/to begin
+bekommen/to get
+billig/cheap
+bleiben/to stay
+brauchen/to need
+bringen/to bring
+dürfen/to be allowed
+erklären/to explain
+fahren/to drive
+falsch/wrong
+fehlen/to lack
+feiern/to celebrate
+finden/to find
+fragen/to ask
+früh/early
+geben/to give
+gehen/to go
+gehören/to belong
+gesund/healthy
+gewinnen/to win
+glauben/to believe
+glücklich/happy
+groß/big
+gut/good
+haben/to have
+halten/to hold
+heißen/to be called
+hoch/high
+jung/young
+kalt/cold
+kennen/to know
+klein/small
+kommen/to come
+krank/ill
+kurz/short
+können/to can
+lang/long
+langsam/slow
+laufen/to walk
+laut/loud
+leben/to live
+legen/to put
+leicht/light
+leise/quiet
+liegen/to lie
+machen/to do
+mögen/to like
+müde/tired
+müssen/to must
+nehmen/to take
+neu/new
+niedrig/low
+richtig/right
+sagen/to say
+scheinen/to seem
+schlecht/bad
+schließen/to close
+schnell/fast
+schreiben/to write
+schwer/heavy
+sehen/to see
+sein/to be
+sollen/to should
+spielen/to play
+sprechen/to speak
+spät/late
+stehen/to stand
+stellen/to put
+suchen/to search
+teuer/expensive
+treffen/to meet
+tun/to do
+warm/warm
+werden/to become
+wichtig/important
+wissen/to know
+wollen/to want
+zahlen/to pay
